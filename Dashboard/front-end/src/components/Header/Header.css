@@ -1,0 +1,52 @@
+.BodyHeader {
+	background-color: #677aea;
+	height: 100px;
+}
+
+.AREATitle {
+	position: absolute;
+	font-size: 400%;
+	top: -55px;
+	left: 46%;
+	color: white;
+	text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.BtnSignIn {
+	height: 70%;
+	border-radius: 10px;
+	width: 12%;
+	position: relative;
+	top: 16%;
+	left: 60%;
+	background-color: orange;
+	font-size: 120%;
+}
+
+.Btndl {
+	height: 70%;
+	border-radius: 10px;
+	width: 12%;
+	position: relative;
+	top: 16%;
+	left: 10%;
+	background-color: orange;
+	font-size: 120%;
+}
+
+.BtnSignUp {
+	height: 70%;
+	border-radius: 10px;
+	width: 12%;
+	position: relative;
+	top: 16%;
+	left: 62%;
+	background-color: orange;
+	font-size: 120%;
+}
+
+.HomeHeader {
+	left: 5%;
+	top: 3%;
+	position: absolute;
+}

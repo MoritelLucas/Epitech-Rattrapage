@@ -1,0 +1,133 @@
+.ServicesBoard {
+	height: 60%;
+	width: 70%;
+	top: 25%;
+	left: 21%;
+	background-color: #fdcbca;
+	position: absolute;
+	border-radius: 20px;
+	box-shadow: 0px 0px 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+.BtnServiceDiscord {
+	height: 60px;
+	border-radius: 10px;
+	width: 25%;
+	position: absolute;
+	top: 32%;
+	left: 6%;
+	background-color: #869dcc;
+	font-size: 120%;
+	color: white;
+}
+
+.BtnDiscordMark {
+	position: absolute;
+	left: 39%;
+	top: 36%;
+}
+
+.BtnServiceSpotify {
+	height: 60px;
+	border-radius: 10px;
+	width: 25%;
+	position: absolute;
+	top: 53%;
+	left: 6%;
+	background-color: #19c944;
+	font-size: 120%;
+	color: white;
+}
+
+.BtnSpotifyMark {
+	position: absolute;
+	left: 39%;
+	top: 57%;
+}
+
+.BtnServiceTwitch {
+	height: 60px;
+	border-radius: 10px;
+	width: 25%;
+	position: absolute;
+	top: 74%;
+	left: 6%;
+	background-color: #856dde;
+	font-size: 120%;
+	color: white;
+}
+
+.BtnTwitchMark {
+	position: absolute;
+	left: 39%;
+	top: 78%;
+}
+
+.BtnServiceImgr {
+	height: 60px;
+	border-radius: 10px;
+	width: 25%;
+	position: absolute;
+	top: 32%;
+	left: 58%;
+	background-color: black;
+	font-size: 120%;
+	color: white;
+}
+
+.BtnImgrMark {
+	position: absolute;
+	left: 90%;
+	top: 36%;
+}
+
+.BtnServiceGitHub {
+	height: 60px;
+	border-radius: 10px;
+	width: 25%;
+	position: absolute;
+	top: 53%;
+	left: 58%;
+	background-color: #fe8938;
+	font-size: 120%;
+	color: white;
+}
+
+.BtnGitHubMark {
+	position: absolute;
+	left: 90%;
+	top: 57%;
+}
+
+.BtnServiceGoogle {
+	height: 60px;
+	border-radius: 10px;
+	width: 25%;
+	position: absolute;
+	top: 74%;
+	left: 58%;
+	background-color: red;
+	font-size: 120%;
+	color: white;
+}
+
+.BtnGoogleMark {
+	position: absolute;
+	left: 90%;
+	top: 78%;
+}
+
+.SepService {
+	height: 70%;
+	width: 0.2%;
+	top: 26%;
+	left: 48%;
+	background-color: grey;
+	position: absolute;
+}
+
+.ImgService {
+	position: relative;
+	top: 5%;
+	left: 3%;
+}

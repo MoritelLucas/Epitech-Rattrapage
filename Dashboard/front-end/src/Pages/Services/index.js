@@ -1,0 +1,2 @@
+//https://accounts.google.com/o/oauth2/v2/auth?response_type=code&client_id=140886629448-mhq1kpfi68cv5a0gc7vs2bvmm7rdilao.apps.googleusercontent.com&scope=openid%20email&redirect_uri=http://localhost:3000/googleconnect
+//scope=https://www.googleapis.com/auth/calendar%20https://www.googleapis.com/auth/calendar.events%20https://www.googleapis.com/auth/gmail.send%20email%20https://mail.google.com/
